@@ -39,7 +39,7 @@ Suppose I tap on Kolkata.
   <img src="https://github.com/Samhitha-2001/Weather-Application-using-SwiftUI--iOS-developement-/blob/main/screenshots/Fav-city-tap.png" width="250" height="400" />
 </p>
 
-Let us reove Kolkata from favourite list. Clicking the star button on the top left removes it from the list.
+Let us remove Kolkata from favourite list. Clicking the star button on the top left removes it from the list.
 
 <p align="center">
   <img src="https://github.com/Samhitha-2001/Weather-Application-using-SwiftUI--iOS-developement-/blob/main/screenshots/Unstar-fav-city.png" width="250" height="400" />
